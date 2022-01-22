@@ -10,7 +10,7 @@
 
 ### 🏠 [Homepage](https://github.com/JUNIgroup/osinfo-npm-package-demo)
 
-This project bases on the [Yarn Course](http://udemy.com/yarn/).
+This project based on the [Yarn Course](https://www.udemy.com/course/yarn-dependency-management/).
 
 ## Install
 
