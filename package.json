@@ -1,6 +1,6 @@
 {
   "name": "osinfo-j",
-  "version": "0.0.2",
+  "version": "0.3.0",
   "description": "Simple OS info - Demo module",
   "main": "osinfo.js",
   "repository": "https://github.com/JUNIgroup/osinfo-npm-package-demo",
