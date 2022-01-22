@@ -1,0 +1,13 @@
+{
+  "name": "osinfo-j",
+  "version": "0.0.1",
+  "description": "Simple OS info - Demo module",
+  "main": "osinfo.js",
+  "repository": "https://github.com/JUNIgroup/osinfo-npm-package-demo",
+  "author": "JUNIgroup <incubator@junigroup.de>",
+  "license": "MIT",
+  "keywords": ["npm", "module", "publish", "demo", "no-production", "incubator"],
+  "dependencies": {
+    "chalk": "~4.1.2"
+  }
+}
